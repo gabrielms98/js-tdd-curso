@@ -1,6 +1,7 @@
-# Project Title
+# BIBLIOTECA DO CURSO DE JS COM TDD
 
 BIBLIOTECA DO CURSO DE JS COM TDD
+template de README
 
 ## Getting Started
 
